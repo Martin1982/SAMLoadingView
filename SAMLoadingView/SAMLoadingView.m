@@ -93,7 +93,7 @@ static CGFloat const kSAMLoadingViewIndicatorRightMargin = 8.0f;
 - (void)initialize {
 	// View defaults
 	self.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
-	self.backgroundColor = [UIColor whiteColor];
+	//self.backgroundColor = [UIColor whiteColor];
 	self.opaque = YES;
 	self.contentMode = UIViewContentModeRedraw;
 
